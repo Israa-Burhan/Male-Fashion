@@ -14,5 +14,5 @@ const home = require("./home");
 
 let loader = document.getElementById("preloader");
 window.addEventListener("load", function () {
-    loader.classList.add("spinner");
+  loader.classList.add("spinner");
 });
